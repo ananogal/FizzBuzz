@@ -1,0 +1,17 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Kata",
+  "main": "index.js",
+  "dependencies": {
+    "save": "^2.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
